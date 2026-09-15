@@ -22,7 +22,7 @@ Note: Log out of Terminal and log back in (or restart the machine) for the permi
 ## 5. Basic Management Commands (CLI) 
 To list VMs: 
               
-              virsh list --all 
+    virsh list --all 
 To start a VM:
               
     virsh start <vm-name> 
