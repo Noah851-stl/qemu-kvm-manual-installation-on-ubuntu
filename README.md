@@ -35,3 +35,11 @@ To force stop a VM:
 To delete a VM:
 
     virsh undefine <vm-name> --remove-all-storage
+
+
+if your VM used UEFI Firmware(nvram0).Delete with flag(--nvram)
+
+    virsh undefine <vm-name> --remove-all-storage --nvram
+
+    
+
