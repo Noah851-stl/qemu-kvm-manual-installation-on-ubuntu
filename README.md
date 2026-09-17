@@ -20,9 +20,6 @@ A beginner-friendly guide to manually installing, configuring, and managing QEMU
 8. [Networking Basics](#8-networking-basics)
 9. [Storage Pool Setup](#9-storage-pool-setup)
 10. [Troubleshooting](#10-troubleshooting)
-11. [Uninstall](#11-uninstall)
-12. [References](#12-references)
-13. [License](#13-license)
 
 ---
 
