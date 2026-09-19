@@ -2,10 +2,6 @@
 
 A beginner-friendly guide to manually installing, configuring, and managing QEMU/KVM on Ubuntu.
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04%2B-orange)
-![QEMU](https://img.shields.io/badge/QEMU-KVM-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 ---
 
 ## 📑 Table of Contents
